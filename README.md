@@ -4,6 +4,20 @@
 
 <p align="center">I'm a cloud-native enthusiast and I believe in open source philosophy, community and collaboration.</p>
 
+---
+
+- Technologies that excites me are DevOps and the tools involving in it and finding new things as I go.
+- Because they align with my ideologies, that's the first reason these technologies caught my attention
+- Learning more about them led to the cloud-native world which empowers the technological ecosystem
+
+---
+<p>
+  <img 
+   src="https://github-readme-stats.vercel.app/api?username=KiranSatyaRaj&show_icons=true&theme=tokyonight" 
+/>
+</p>
+
+
 <!--
 **KiranSatyaRaj/KiranSatyaRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
