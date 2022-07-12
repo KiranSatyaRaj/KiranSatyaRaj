@@ -1,4 +1,4 @@
-### Hey there folks 👋
+### Hey there 👋, I'm Kiran Satya Raj
 
 <!--
 **KiranSatyaRaj/KiranSatyaRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
