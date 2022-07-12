@@ -1,4 +1,8 @@
-### Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Kiran Satya Raj!
+<h1 align="center" id="welcome_message"> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,</h1>
+
+![](https://pbs.twimg.com/profile_banners/1443136388799467520/1657256441/1500x500)
+
+<p align="center">I'm a cloud-native enthusiast and I believe in open source philosophy, community and collaboration.</p>
 
 <!--
 **KiranSatyaRaj/KiranSatyaRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
