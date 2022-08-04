@@ -11,7 +11,7 @@
 - Learning more about them led to the cloud-native world which empowers the technological ecosystem
 
 ---
-<p>
+<p align="center">
   <img 
    src="https://github-readme-stats.vercel.app/api?username=KiranSatyaRaj&show_icons=true&theme=tokyonight" 
 />
