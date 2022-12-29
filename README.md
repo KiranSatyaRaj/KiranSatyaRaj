@@ -6,9 +6,9 @@
 
 ---
 
-- Technologies that excites me are DevOps and the tools involving in it and finding new things as I go.
-- Because they align with my ideologies, that's the first reason these technologies caught my attention
-- Learning more about them led to the cloud-native world which empowers the technological ecosystem
+- Technologies that excites me are DevOps and the tools involved in it and finding new things as I go.
+- Because the projects and communities are too inclusive, that's the first reason these technologies caught my attention
+- Learning more about them led to the cloud-native space which empowers the technological ecosystem
 
 ---
 <p align="center">
