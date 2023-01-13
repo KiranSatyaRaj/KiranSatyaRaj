@@ -3,6 +3,7 @@
 ![](https://pbs.twimg.com/profile_banners/1443136388799467520/1657256441/1500x500)
 
 <p>I'm a cloud-native enthusiast and I believe in open source philosophy, community and collaboration.</p>
+<p>I'm currently learning technologies, and tools to get started with BackEnd Development</p>
 
 ---
 
