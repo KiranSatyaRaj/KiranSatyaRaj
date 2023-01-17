@@ -2,11 +2,8 @@
 
 ![](https://pbs.twimg.com/profile_banners/1443136388799467520/1657256441/1500x500)
 
-<p>I'm a cloud-native enthusiast and I believe in open source philosophy, community and collaboration.</p>
-<p>I'm currently learning technologies, and tools to get started with BackEnd Development</p>
-
 ---
-
+- I'm a cloud-native enthusiast and I believe in open source philosophy, community and collaboration.</p>
 - Technologies that excites me are DevOps and the tools involved in it and finding new things as I go.
 - Because the projects and communities are too inclusive, that's the first reason these technologies caught my attention.
 - Learning more about them led to the cloud-native space, currently I'm learning BackEnd Development and to get a better understanding of Software Development Lifecycle in general.
