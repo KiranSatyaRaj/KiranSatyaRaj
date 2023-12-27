@@ -3,7 +3,8 @@
 ![](https://pbs.twimg.com/profile_banners/1443136388799467520/1657256441/1500x500)
 
 ---
-- I'm an engineering student and I love STEM stuff
+- Engineering student
+- Python Programmer and DevOps Enthusiast
 ---
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranSatyaRaj&theme=tokyonight"/>
