@@ -4,7 +4,7 @@
 
 ---
 - Engineering student
-- Python Programmer and DevOps Enthusiast
+- I'm into Software Supply Chain Security
 ---
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranSatyaRaj&theme=tokyonight"/>
