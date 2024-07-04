@@ -1,9 +1,13 @@
 <h1 align="center" id="welcome_message"> Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"></h1>
+<h1 align="center" id="welcome_message"> I'm KiranSatyaRaj </h1>
+
 
 ![](https://pbs.twimg.com/profile_banners/1443136388799467520/1657256441/1500x500)
 
 ---
-- Engineering student
+- Engineering Student
+- I’m currently working on ![in-toto-jenkins-plugin](https://github.com/in-toto/in-toto-jenkins-plugin) 
+- I’m currently learning Java & Jenkins 
 - I'm into Software Supply Chain Security
 ---
 <p align="center">
