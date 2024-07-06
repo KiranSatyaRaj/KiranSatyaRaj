@@ -10,6 +10,9 @@
 - I’m currently learning Java & Jenkins 
 - I'm into Software Supply Chain Security
 ---
+
+<h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> </h1>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=KiranSatyaRaj&label=Profile%20views&color=0e75b6&style=flat" alt="KiranSatyaRaj" /> </p>
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranSatyaRaj&theme=tokyonight"/>
 </p>
