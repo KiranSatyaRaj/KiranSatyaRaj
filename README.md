@@ -6,9 +6,11 @@
 
 ---
 - Engineering Student
-- I’m currently working on ![in-toto-jenkins-plugin](https://github.com/in-toto/in-toto-jenkins-plugin) 
-- I’m currently learning Java & Jenkins 
-- I'm into Software Supply Chain Security
+- I'm a Go programmer
+- I'm working on a CLI blog aggregator [gator-cli](https://github.com/KiranSatyaRaj/gator-cli)
+- I worked on [in-toto-jenkins-plugin](https://github.com/in-toto/in-toto-jenkins-plugin) 
+- I’m currently learning about Container Internals(linux namespaces and cgroups) made a [container-from-scratch](https://github.com/KiranSatyaRaj/container-from-scratch)
+- I'm into Backend Engineerging, Distributed Systems, Production Engineering and Software Supply Chain Security
 ---
 
 <h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> </h1>
